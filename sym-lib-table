@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Pyxel-Paradise-cache)(type Legacy)(uri /Users/krishna/Documents/Electronics/Pyxel-Paradise/Pyxel-Paradise-cache.lib)(options "")(descr ""))
+  (lib (name Pyxel-Paradise)(type Legacy)(uri /Users/krishna/Documents/Electronics/Pyxel-Paradise/Pyxel-Paradise.lib)(options "")(descr ""))
+)
